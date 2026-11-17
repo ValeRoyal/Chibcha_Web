@@ -30,7 +30,6 @@ El sistema contempla diferentes perfiles de usuario, cada uno con funcionalidade
 | Gestión de pagos y comisiones | Procesamiento de cobros, generación de comprobantes y liquidación de comisiones. |
 | Soporte técnico | Creación, asignación, seguimiento y escalamiento de tickets de soporte. |
 | Administración | Configuración de parámetros del negocio, usuarios, planes y niveles de servicio. |
-| Migración de datos | Extracción, validación y transferencia de información desde los sistemas heredados. |
 
 ## Roles de usuario
 
@@ -73,7 +72,7 @@ La documentación de análisis y diseño del proyecto comprende:
 Proyecto académico desarrollado para la asignatura **Fundamentos de Ingeniería de Software** de la Universidad Distrital Francisco José de Caldas.
 
 - Valentina Aguilar Perdomo
-- Silvana Martínez
+- Silvana Martínez Pardo
 
 **Docente:** Henry Alberto Diosa.
 
